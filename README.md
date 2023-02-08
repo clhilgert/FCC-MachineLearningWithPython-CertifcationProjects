@@ -5,4 +5,5 @@ Submissions for freecodecamp.org's "Machine Learning with Python" certification 
 ## Cat and Dog Image Classifier
 ## Book Recommendation Engine using KNN
 ## Linear Regression Health Costs Calculator
+[a link](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_predict_health_costs_with_regression_clhilgert.ipynb)
 ## Neural Network SMS Text Classifier
