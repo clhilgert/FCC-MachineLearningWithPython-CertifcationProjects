@@ -23,5 +23,16 @@ Skills gained from project:
 - Manipulating categorical data into numeric data to work in machine learning models
 - Creating sequential linear regression neural networks
 
-[Link to code](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_predict_health_costs_with_regression_clhilgert.ipynb)
+[Solution](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_predict_health_costs_with_regression_clhilgert.ipynb)
 ## Neural Network SMS Text Classifier
+[Starting Code](https://colab.research.google.com/github/freeCodeCamp/boilerplate-neural-network-sms-text-classifier/blob/master/fcc_sms_text_classification.ipynb)
+
+Uses Recurrent Neural Network to classify text data as either "spam" or "ham" (a message normally sent by a friend)
+
+Skills gained from project:
+- Working with the conversion of .tsv data to pandas dataframes to numpy arrays and TensorFlow datasets
+- Creating TextVectorization text encoders
+- Creating sequential natural language processing models to classify text data
+- Tuning batch size, buffer size, and vocab size (text vectorization) to achieve desired results
+
+[Solution](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_sms_text_classification_clhilgert.ipynb)
