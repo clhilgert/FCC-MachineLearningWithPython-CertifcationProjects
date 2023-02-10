@@ -12,7 +12,7 @@ Skills gained from project:
 - Image pre-processing and manipulating small image datasets to reduce overfitting
 - Creating sequential convolutional neural networks
 
-[Solution Code](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_cat_dog_clhilgert.ipynb)
+[Solution](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_cat_dog_clhilgert.ipynb)
 ## Book Recommendation Engine using KNN
 [Starting Code](https://colab.research.google.com/github/freeCodeCamp/boilerplate-book-recommendation-engine/blob/master/fcc_book_recommendation_knn.ipynb)
 
@@ -24,7 +24,7 @@ Skills gained from project:
 - Creating KNN machine learning models
 - Using and debugging various pandas methods to access and manipulate data
 
-[Solution Code] (https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_book_recommendation_knn_clhilgert.ipynb)
+[Solution](https://github.com/clhilgert/FCC-MachineLearningWithPython-CertifcationProjects/blob/main/fcc_book_recommendation_knn_clhilgert.ipynb)
 ## Linear Regression Health Costs Calculator
 [Starting Code](https://colab.research.google.com/github/freeCodeCamp/boilerplate-linear-regression-health-costs-calculator/blob/master/fcc_predict_health_costs_with_regression.ipynb)
 
