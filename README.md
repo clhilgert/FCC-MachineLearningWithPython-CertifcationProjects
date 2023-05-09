@@ -1,7 +1,6 @@
 # FCC-MachineLearningWithPython-CertifcationProjects
 Submissions for freecodecamp.org's "Machine Learning with Python" certification projects
 
-## Rock Paper Scissors
 ## Cat and Dog Image Classifier
 [Starting Code](https://colab.research.google.com/github/freeCodeCamp/boilerplate-cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb)
 
